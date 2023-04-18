@@ -10,22 +10,6 @@
                     <a href="#" class="btn-dark-green text-decoration-none">Buy now</a>
                 </div>
             </div>
-            <div class="card col p-0">
-                <img src="{{asset('img/fab.png')}}" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h4 class="card-title">Classic Denim</h4>
-                    <p class="card-text">P499.00</p>
-                    <a href="#" class="btn-dark-green text-decoration-none">Buy now</a>
-                </div>
-            </div>
-            <div class="card col p-0">
-                <img src="{{asset('img/fab.png')}}" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h4 class="card-title">Classic Denim</h4>
-                    <p class="card-text">P499.00</p>
-                    <a href="#" class="btn-dark-green text-decoration-none">Buy now</a>
-                </div>
-            </div>
         </div>
     </div>
 </div>
